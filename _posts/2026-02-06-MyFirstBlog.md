@@ -1,6 +1,4 @@
 ---
 title: "My-First-Blog"
-date: YYYY-MM-DD
+date: 20266-02-06
 ---
-
-My name is Tanvir, I am an International student from Bangladesh, doing MS in Pakistan.
